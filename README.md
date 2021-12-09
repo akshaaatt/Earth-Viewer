@@ -62,9 +62,3 @@ Program is distributed in the hope that it will be useful, but WITHOUT ANY WARRA
 
 Import the project into Android Studio, build and run the application.
 
-## Attribution
-
-This code was created by Martin Kacer, H21 lab, Copyright 2020.
-https://www.h21lab.com/android
-
-
