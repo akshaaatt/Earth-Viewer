@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="com.aemerse.forfree.earth"
+      package="com.aemerse.earth_viewer"
       android:versionCode="122"
       android:versionName="2.2"
       android:installLocation="auto">
@@ -10,7 +10,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application android:icon="@drawable/icon" android:label="@string/app_name" android:largeHeap="true">
-        <activity android:name="com.aemerse.forfree.earth.EarthActivity"
+        <activity android:name="com.aemerse.earth_viewer.EarthActivity"
                   android:label="@string/app_name"
             android:exported="true">
             <intent-filter>
